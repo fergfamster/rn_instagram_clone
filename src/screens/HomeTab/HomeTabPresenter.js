@@ -37,7 +37,7 @@ function HomeTabPresenter(props) {
           barStyle="dark-content"/>
         <Left><Icon name='ios-camera' style={{ paddingLeft:10 }}/></Left>
         <Body>
-          <Title style={styles.title}>Insteemgram</Title>
+          <Title style={styles.title}>Freestate</Title>
         </Body>
         <Right><Icon name='ios-send' style={{ paddingRight:10 }}/></Right>
       </Header>
