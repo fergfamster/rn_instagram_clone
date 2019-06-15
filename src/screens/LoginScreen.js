@@ -76,7 +76,7 @@ class LoginScreen extends Component {
 	render() {
 		return (
 			<Container style={styles.container}>
-				<LogoText>Insteemgram</LogoText>
+				<LogoText>Freestate</LogoText>
 				<Button 
 					block
 					primary
