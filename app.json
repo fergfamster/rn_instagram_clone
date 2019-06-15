@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "insteemgram",
-    "slug": "insteemgram",
-    "description": "This is a sample app for Instagram clone coding. Let's make Steamit SNS look like Instagram. See the source: https://github.com/anpigon/rn_instagram_clone",
+    "name": "freestate",
+    "slug": "freestate",
+    "description": "",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
